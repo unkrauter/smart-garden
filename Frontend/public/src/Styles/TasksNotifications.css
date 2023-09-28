@@ -1,0 +1,27 @@
+#tasks-notifications-section {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.tasks-list, .notifications-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.task-item, .notification-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.notification-item p, .task-item p {
+    margin: 5px 0;
+}
